@@ -1,0 +1,3 @@
+$src Whip_neutralattack.png
+
+grid 256 256
